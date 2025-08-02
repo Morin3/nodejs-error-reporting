@@ -83,7 +83,7 @@
     "jscs": "^3.0.7",
     "jsdoc": "^3.5.5",
     "jshint": "^2.9.2",
-    "koa": "^2.4.1",
+    "koa": "^3.0.1",
     "lodash.assign": "^4.2.0",
     "lodash.foreach": "^4.5.0",
     "lodash.indexof": "^4.0.5",
